@@ -11,3 +11,7 @@ python main.py
 # Author
 
 Holzer SOAHITA
+
+# DOI Badge
+
+[![DOI](https://zenodo.org/badge/304005717.svg)](https://zenodo.org/badge/latestdoi/304005717)
